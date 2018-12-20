@@ -1,9 +1,8 @@
 //
 //  CircleSegmentViewModel.swift
-//  MediteoViewModel
 //
 //  Created by Kirill Filippov on 8/3/18.
-//  Copyright © 2018 Mediteo. All rights reserved.
+//  Copyright © 2018 . All rights reserved.
 //
 
 import UIKit
